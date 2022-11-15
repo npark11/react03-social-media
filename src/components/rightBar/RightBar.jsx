@@ -71,21 +71,21 @@ const RightBar = () => {
           <div className="user">
             <div className="userInfo">
               <img src="https://picsum.photos/50/50" alt="" />
-              {/* <div className="online" /> */}
+              <div className="online" />
               <span>Olivia Rodrigo</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img src="https://picsum.photos/50/50" alt="" />
-              {/* <div className="online" /> */}
+              <div className="online" />
               <span>Olivia Rodrigo</span>
             </div>
           </div>
           <div className="user">
             <div className="userInfo">
               <img src="https://picsum.photos/50/50" alt="" />
-              {/* <div className="online" /> */}
+              <div className="online" />
               <span>Olivia Rodrigo</span>
             </div>
           </div>
