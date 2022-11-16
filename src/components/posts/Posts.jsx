@@ -1,7 +1,7 @@
 import './posts.scss';
 import Post from '../post/Post';
 
-function Posts() {
+const Posts = () => {
 
   // Temporary
   const posts = [

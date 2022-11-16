@@ -2,7 +2,7 @@ import { useContext } from 'react';
 import AuthContext from '../../context/authContext';
 import './stories.scss';
 
-function Stories() {
+const Stories = () => {
 
   const { currentUser } = useContext(AuthContext);
 
