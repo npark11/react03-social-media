@@ -11,7 +11,7 @@ export const AuthContextProvider = ({ children }) => {
         setCurrentUser({
             id:1, 
             name:"Olivia Rodrigo", 
-            profilePic:"https://picsum.photos/100/100"
+            profilePic:"https://picsum.photos/id/399/100"
         });
     };
 
